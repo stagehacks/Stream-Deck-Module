@@ -1,6 +1,4 @@
 # Stream Deck Module
- 
-Reference drawings and 3D files of the Stream Deck Module.
 
 The Stream Deck Module is the inner assembly of the Stream Deck MK2. It includes the buttons, display, USB-C connector, and control circuity all in one unit. It's easy to mount in custom projects!
 
