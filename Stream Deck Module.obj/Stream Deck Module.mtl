@@ -1,0 +1,20 @@
+newmtl Material_1
+Kd 1 1 1
+d 1
+
+newmtl Material_2
+Kd 0 0 0
+d 1
+
+newmtl Material_3
+Kd 0.0980392 0.0980392 0.0980392
+d 1
+
+newmtl Material_4
+Kd 0.0666667 0.501961 0.25098
+d 1
+
+newmtl Material_5
+Kd 0.533333 0.533333 0.533333
+d 1
+
