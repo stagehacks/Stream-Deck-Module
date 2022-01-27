@@ -10,7 +10,7 @@ The Stream Deck Module is the inner assembly of the Stream Deck MK2. It includes
 
 ## Extracting the module from a Stream Deck
 
-The module is accessed by removing the faceplate of the Stream Deck MK2. It's only held on with snaps, but they're very tight! [This video](https://www.youtube.com/watch?v=8ENbCPJs_Pw) from Elgato may be of help with removing the faceplate.
+The module is accessed by removing the faceplate of the Stream Deck MK2. It's only held on with snaps, but they're very tight! [This video](https://www.youtube.com/watch?v=8ENbCPJs_Pw) from Elgato may be of help with removing it.
 
 The module is not glued or fastened into the shell. Rather, it fits snugly into notches in the plastic form and is held in by the faceplate. After the faceplate is removed, the module should fall right out after a gentle shake.
 
